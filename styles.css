@@ -1,0 +1,61 @@
+
+.images{
+  height: 500px;
+  width: 400px;
+  padding: 4% 7%;
+  border-radius: 100%;
+
+}
+
+.boxone{
+  background-color:#726a95;
+  background-image: url("https://www.transparenttextures.com/patterns/checkered-pattern.png");
+  text-align: center;
+  padding: 5% 7%;
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.5em;
+  color:#eeeeee;
+}
+.boxtwo{
+  background-color:#e0dede;
+    background-image: url("https://www.transparenttextures.com/patterns/checkered-pattern.png");
+  text-align: center;
+  padding: 5% 7%;
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.5em;
+  color:#3b6978;
+}
+.heading{
+  font-family: 'Crete Round', serif;
+  font-weight: bold;
+  font-size: 3.5em;
+  padding: 7%;
+}
+.subheading
+{
+  font-size: 2em;
+  padding:4%;
+}
+.main{
+  padding: 10% 5%;
+background-image: url("https://www.transparenttextures.com/patterns/diagmonds.png");
+
+}
+.whoarewe{
+  background-color:#e0dede;
+  background-image: url("https://www.transparenttextures.com/patterns/xv.png");
+
+  text-align: center;
+  padding: 5% 7%;
+  font-family: 'Crete Round', serif;
+  font-size: 1.5em;
+  color:#3b6978;
+}
+footer{
+  font-size: 1em;
+  background-image: url("https://www.transparenttextures.com/patterns/xv.png");
+  padding:0;
+}
+.btn{
+  background-color: #e0dede;
+}
